@@ -78,8 +78,9 @@ gcc main.c -o shinigami-scroll $(pkg-config --cflags --libs gtk4)
 
 # 🚀 Future Plans
 
-- API integration to search for anime online
+- API integration to search for anime online and watch online through a built-in player
 - Theme Customization
+- Add a built-in video player
 - I don't know what else 😅
 
 ---
